@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Quarkus-SpringBoot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/employeemgmt.zip!/" />
+      <root url="jar://$PROJECT_DIR$/employee-management.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
